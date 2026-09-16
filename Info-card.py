@@ -1,0 +1,10 @@
+name  = input("What is your full name? ")
+age = input("What is your age? ")
+add = input("Where do you live? ")
+
+print("____________________________________________________________")
+print("")
+print(f"   Name: {name}")
+print(f"    Age: {age}")
+print(f"Address: {add}")
+print("____________________________________________________________")
